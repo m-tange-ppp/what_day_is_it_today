@@ -14,12 +14,18 @@
 ## インストール方法
 
 必要なパッケージをインストール：
+
+```bash
 pip install streamlit pytz
+```
 
 ## 使い方
 
 1. 以下のコマンドでアプリを起動：
-   streamlit run main.py
+
+```bash
+streamlit run main.py
+```
 
 2. ブラウザで日付を選択
 3. 結果が自動的に表示されます
